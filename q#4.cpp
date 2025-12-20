@@ -98,4 +98,3 @@ int main() {
     validator.inputGrid();
     validator.validate();
     return 0;
-}
